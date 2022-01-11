@@ -15,6 +15,6 @@ csv_files (folder) - contains all .csv files used in Restaurants.py
 Restaurants.py - main python file. loads in .csv files and queries for prompted data as shown in the comments.
 
 DESIGN:
-The code in books.py is written in one block without the use of functions. 
+The code in Restaurants.py is written in one block without the use of functions. 
 Since the purpose of this project was to become familiarized with pandas and not for repeatability,
 little thought went into the design.
