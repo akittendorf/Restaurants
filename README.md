@@ -5,7 +5,7 @@ OBJECTIVE:
 Use Pandas to retrieve data from https://www.kaggle.com/uciml/restaurant-data-with-consumer-ratings. 
 
 REQUIREMENTS:
-books.py was written using Python version 3.9.7.
+Restaurants.py was written using Python version 3.9.7.
 
 MAINTENANCE:
 This repository will likely not be updated after 1/11/2022.
